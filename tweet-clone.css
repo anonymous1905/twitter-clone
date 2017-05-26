@@ -1,0 +1,102 @@
+body{
+  background: rgb(244, 248, 249);
+  font-style: "helvetica";
+}
+
+.container{
+  background-color: white;
+  border: rgb(255, 232, 237);
+  width: 850px;
+  height: 300px;
+  padding: 20px;
+}
+
+#profile {display:}
+
+#man{
+  padding-bottom: 40px;
+}
+ #verified{
+   padding-bottom: 40px;
+ }
+
+#useraccount{
+  color: rgb(0, 0, 0);
+  display: inline;
+  position: relative;
+  bottom: 40px;
+}
+  #username{
+    color: rgb(104, 109, 129);
+    display: block;
+    position: relative;
+    left: 85px;
+    bottom: 45px;
+  }
+
+#text{
+  color: rgb(0, 0, 0);
+  font-size: 33px;
+  position: relative;
+  bottom: 40px;
+
+}
+#date{
+  color: rgb(101, 116, 127);
+  font-size: 25px;
+  margin-bottom: 30px;
+  bottom: 50px;
+  position: relative;
+}
+
+.maintweet{
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(225, 232, 237);
+}
+
+h1{
+  color: rgb(0, 0, 0);
+}
+
+p{
+  color: rgb(104, 109, 129);
+}
+.FOLLOW{
+  color: rgb(85, 172, 238);
+  position: relative;float: right;
+    /* margin-bottom: 73px; */
+    position: absolute;
+    left: 682px;
+    top: 40px;
+    border: 1px solid rgb(85, 172, 238);
+    padding: 10px;
+    border-radius: 10px;
+
+
+
+}
+#writing {
+  display: inline;
+}
+
+
+.bottom{
+  color: rgb(105, 120, 130);
+
+
+}
+#retweetnumber {
+  display: inline;
+}
+#likenumber {
+  display: inline;
+}
+
+#retweet {
+padding-left: 25px
+
+}
+
+#favorite {
+  padding-left: 20px
+}
